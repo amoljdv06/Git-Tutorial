@@ -2,5 +2,4 @@
 
 Added First Project
 
-First Contributor Amol Jadhav
-
+First Contributor Amol A Jadhav

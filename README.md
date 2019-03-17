@@ -6,5 +6,3 @@ First Contributor Amol A Jadhav
 
 Second Contributor Amol Genius
 
-First Contributor Amol A Jadhav
-
